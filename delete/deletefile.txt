@@ -5,3 +5,10 @@ host=github.com => ENTER
 protocol=https => ENTER
 
 //how to delete personal access token
+
+git remote add origin {url}
+
+git push origin main
+
+git clone {url}         //하위 폴더로 복사함
+git clone {url} .       //지금 폴더가 최상위로 오게 함
