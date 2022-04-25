@@ -3,3 +3,5 @@ delete file.
 git credential reject => ENTER
 host=github.com => ENTER
 protocol=https => ENTER
+
+//how to delete personal access token
